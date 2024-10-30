@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Methods", "08_Methods\08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{77C6F970-C468-40E2-8E41-472E1ACD53AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{F4E0C0DB-BC7D-4CF8-B82A-042C06EAFBF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{77C6F970-C468-40E2-8E41-472E1ACD53AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77C6F970-C468-40E2-8E41-472E1ACD53AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77C6F970-C468-40E2-8E41-472E1ACD53AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E0C0DB-BC7D-4CF8-B82A-042C06EAFBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E0C0DB-BC7D-4CF8-B82A-042C06EAFBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E0C0DB-BC7D-4CF8-B82A-042C06EAFBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E0C0DB-BC7D-4CF8-B82A-042C06EAFBF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
